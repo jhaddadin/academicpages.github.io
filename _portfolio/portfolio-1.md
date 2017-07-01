@@ -5,9 +5,9 @@ collection: portfolio
 ---
 Published June 17, 2017 in [The MetroWest Daily News](http://www.metrowestdailynews.com/news/20170617/brazilians-latinos-see-opportunity-in-framingham-city-election)
 
-<img src="/images/post1_brauna.jpg" alt="Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)" width="100%"/>
+<img src="/images/post1_brauna.jpg" alt="Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)" width="100%">
 
-![alt text](/images/post1_brauna.jpg "Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)" =100%)
+![alt text](/images/post1_brauna.jpg "Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)"){:width="100%"}
 
 FRAMINGHAM — Inside the broadcast booth at WSRO, a discussion is unfolding about Framingham’s future.
 General Manager Ilma Paixão and radio host Silvio Brauna are interviewing a 29-year-old candidate about her bid to become Framingham’s first mayor.
