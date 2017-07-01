@@ -5,9 +5,7 @@ collection: portfolio
 ---
 Published June 17, 2017 in [The MetroWest Daily News](http://www.metrowestdailynews.com/news/20170617/brazilians-latinos-see-opportunity-in-framingham-city-election)
 
-<img src="/images/post1_brauna.jpg" alt="Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)" width="100%">
-
-![alt text](/images/post1_brauna.jpg "Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)"){:width="100%"}
+![alt text](/images/post1_brauna.jpg "Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)"){:width="95%"}
 
 FRAMINGHAM — Inside the broadcast booth at WSRO, a discussion is unfolding about Framingham’s future.
 General Manager Ilma Paixão and radio host Silvio Brauna are interviewing a 29-year-old candidate about her bid to become Framingham’s first mayor.
@@ -46,6 +44,8 @@ Many use the term Latino to refer to all people with cultural ties to Latin Amer
 Based on census data, about 12,000 of the roughly 70,000 people who live in Framingham are Latino, according to a 2015 report by the Mauricio Gastón Institute for Latino Community Development and Public Policy at UMass Boston. That number likely doesn’t include all of Framingham’s Brazilians, since it counts only those Brazilians who identified themselves as Latino on the census. Many immigrants who are not U.S. citizens are also reticent to be counted.
 
 Some 6,000 Brazilians are believed to live in Framingham, according to researches at UMass, making them the town’s largest immigrant group. While other communities in Massachusetts have significant Brazilian populations, Framingham’s Brazilians are tightly concentrated downtown, where the yellow and green colors of the Brazilian flag are displayed in many storefront windows.
+
+![alt text](/images/post1_monzon_full.jpg "Framingham Selectman Cesar Monzon speaks at Isla Restaurant. (Daily News Staff Photo/Dan Holmes)"){:width="95%"}
 
 **Equal representation**
 
