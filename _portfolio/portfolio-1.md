@@ -1,6 +1,6 @@
 ---
 title: "Brazilians, Latinos see opportunity in Framingham city election"
-excerpt: "As the town prepares to usher in a new city government, community leaders believe the transition will provide an unprecedented opportunity for immigrants to get involved in local politics."<br/><img src='/images/post1_brauna.jpg'>"
+excerpt: "As the town prepares to usher in a new city government, community leaders believe the transition will provide an unprecedented opportunity for immigrants to get involved in local politics.<br/><img src='/images/post1_brauna.jpg'>"
 collection: portfolio
 ---
 
