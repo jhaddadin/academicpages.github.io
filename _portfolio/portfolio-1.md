@@ -3,8 +3,10 @@ title: "Brazilians, Latinos see opportunity in Framingham city election"
 excerpt: "MetroWest Daily News, June 17, 2017.<br/><img src='/images/post1_brauna.jpg'>"
 collection: portfolio
 ---
+Published June 17, 2017 in [The MetroWest Daily News](http://www.metrowestdailynews.com/news/20170617/brazilians-latinos-see-opportunity-in-framingham-city-election)
 
-![alt text](/images/post1_brauna.jpg "Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)")
+![alt text](/images/post1_brauna.jpg "Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)"){ width=100% }
+
 FRAMINGHAM — Inside the broadcast booth at WSRO, a discussion is unfolding about Framingham’s future.
 General Manager Ilma Paixão and radio host Silvio Brauna are interviewing a 29-year-old candidate about her bid to become Framingham’s first mayor.
 
@@ -27,7 +29,7 @@ Where they once struggled to win appointments to municipal boards or Town Meetin
 
 “We have not yet at this point been able to really get the involvement of all the communities that represent Framingham,” Paixão said.
 
-Being counted
+**Being counted**
 
 At least half a dozen Brazilian or Latino candidates have pulled nomination papers for the city election — evidence, Paixão said, that Framingham’s transition is giving members of immigrant communities the courage to run for office.
 
@@ -43,7 +45,7 @@ Based on census data, about 12,000 of the roughly 70,000 people who live in Fram
 
 Some 6,000 Brazilians are believed to live in Framingham, according to researches at UMass, making them the town’s largest immigrant group. While other communities in Massachusetts have significant Brazilian populations, Framingham’s Brazilians are tightly concentrated downtown, where the yellow and green colors of the Brazilian flag are displayed in many storefront windows.
 
-Equal representation
+**Equal representation**
 
 Other large Latino groups in Framingham include roughly 3,200 Puerto Ricans, 1,200 Dominicans, 1,100 Guatemalans and 1,000 Salvadorans. Puerto Ricans were among the first to settle in Framingham, coming as early as the 1930s. Waves of Brazilian migrants followed in the 1980s and 90s, helping to sustain the community’s struggling downtown as retail activity moved to Rte. 9 and major manufacturers closed down.
 
