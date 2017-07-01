@@ -32,6 +32,7 @@ Where they once struggled to win appointments to municipal boards or Town Meetin
 <div id="tout-2csvfi-target"></div>
 <script src="//player.tout.com/embeds/2csvfi.js?content_brand_uid=e160c0&width=auto&height=auto&autoplay=false&element_id=tout-2csvfi-target"></script>
 
+
 **Being counted**
 
 At least half a dozen Brazilian or Latino candidates have pulled nomination papers for the city election — evidence, Paixão said, that Framingham’s transition is giving members of immigrant communities the courage to run for office.
