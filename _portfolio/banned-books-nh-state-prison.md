@@ -1,5 +1,5 @@
 ---
-title: "Banning books in prison spurs lawsuit: Playboy OK, but books on Buddhism and sailing rejected"
+title: "Banning books in prison spurs lawsuit:<br/>Playboy OK, but books on Buddhism and sailing rejected"
 excerpt: "The Telegraph of Nashua, Sept. 28, 2014.<br/><img src=''>"
 collection: portfolio
 ---
