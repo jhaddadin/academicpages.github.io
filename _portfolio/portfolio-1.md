@@ -1,11 +1,11 @@
 ---
 title: "Brazilians, Latinos see opportunity in Framingham city election"
-excerpt: "MetroWest Daily News, June 17, 2017.<br/><img src='/images/post1_brauna.jpg'>"
+excerpt: "MetroWest Daily News, June 17, 2017.<br/><img src='/images/post1_ruiz.jpg'>"
 collection: portfolio
 ---
 Published June 17, 2017 in [The MetroWest Daily News](http://www.metrowestdailynews.com/news/20170617/brazilians-latinos-see-opportunity-in-framingham-city-election)
 
-![alt text](/images/post1_brauna.jpg "Silvio Brauna, host of WSRO's "A Voz do Brasil," speaks during a broadcast at the station's studio in Framingham. (Daily News Staff Photo/Jim Haddadin)"){:width="95%"}
+![alt text](/images/post1_ruiz_full.jpg "Candidate for District 7 City Council, Sylvia Ruiz, speaks with residents at Isla Restaurant in Framingham. (Daily News Staff Photo/Dan Holmes)"){:width="95%"}
 
 FRAMINGHAM — Inside the broadcast booth at WSRO, a discussion is unfolding about Framingham’s future.
 General Manager Ilma Paixão and radio host Silvio Brauna are interviewing a 29-year-old candidate about her bid to become Framingham’s first mayor.
