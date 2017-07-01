@@ -18,4 +18,4 @@ Recently, I've been using computer programming to sift through data and public r
 
 I also wrote a program to display Donald Trump's tweets inside a tiny [cardboard box](https://twitter.com/JimHaddadin/status/826895313436864516) to annoy one of my coworkers.
 
-You can view more of my coding projects on [Github](https://github.com/jhaddadin). You can also send me an [email](mailto:jhaddadin@gmail.com), find me on [Twitter](http://www.twitter.com/JimHaddadin), or view my [resume](/cv/).
+You can view more of my coding projects on [Github](https://github.com/jhaddadin). You can also ready my [published work](/clips/), send me an [email](mailto:jhaddadin@gmail.com), find me on [Twitter](http://www.twitter.com/JimHaddadin) or view my [resume](/cv/).
