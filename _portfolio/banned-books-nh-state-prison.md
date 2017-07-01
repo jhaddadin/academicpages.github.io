@@ -1,9 +1,11 @@
 ---
 title: "Banning books in prison spurs lawsuit:<br/>Playboy OK, but books on Buddhism and sailing rejected"
-excerpt: "The Telegraph of Nashua, Sept. 28, 2014.<br/><img src=''>"
+excerpt: "The Telegraph of Nashua, Sept. 28, 2014.<br/><img src='/images/nhstateprison.jpg'>"
 collection: portfolio
 ---
 Published Sept. 28, 2014 in [The Telegraph of Nashua](http://www.nashuatelegraph.com/news/local-news/2014/09/28/banning-books-in-prison-spurs-lawsuit-playboy-ok-but-books-on-buddhism-and-sailing-rejected/)
+
+![alt text](/images/nhstateprison_full.jpg "New Hampshire State Prison For Men"){:width="95%"}
 
 Since he was sent to prison in 2012, Michael Hanson has relied on Buddhism to give him strength and prepare for life on the outside.
 
