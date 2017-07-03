@@ -1,5 +1,5 @@
 ---
-title: "Video: Mayoral candidate removes opponent’s display from Framingham library"
+title: "Video: Mayoral candidate removes opponent’s<br/>display from Framingham library"
 excerpt: "MetroWest Daily News, May 22, 2017<br/><img src='/images/library_video.jpg'>"
 collection: portfolio
 ---
