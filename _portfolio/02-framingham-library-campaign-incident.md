@@ -1,5 +1,5 @@
 ---
-title: "Video: Mayoral candidate removes opponent’s<br/>display from Framingham library"
+title: "Video: Mayoral candidate removes opponent’s display from Framingham library"
 excerpt: "MetroWest Daily News, May 22, 2017<br/><img src='/images/library_video.jpg'>"
 collection: portfolio
 ---
@@ -24,7 +24,6 @@ Stefanini can be seen emerging into the lobby around 10:22 a.m., holding a mobil
 Stefanini exited the library, stopping to shake hands with a woman on his way through the sliding door. He returned about 13 seconds later, again holding a phone to his ear as he stooped to remove three news articles that were glued to the front of the display.
 
 Shulman reported the incident to library staff, who called the police.
-
 
 Stefanini later apologized to Spicer, but stood by his rationale for interfering with the display. In a letter published last week in the Daily News, Stefanini wrote that it was inappropriate for the Spicer campaign to place material in a municipal building.
 
