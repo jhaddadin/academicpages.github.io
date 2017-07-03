@@ -41,3 +41,30 @@ Celebrating the victory Tuesday at La Cantina restaurant in Framingham, Charter 
 If the results of Tuesday’s election stand, voters will pick the community’s first mayor and other elected leaders at a Nov. 7 election. Assistant Town Clerk Lisa Ferguson said members of the anti-charter ballot committee have indicated they are likely to seek a recount Wednesday.
 
 “When it’s this close, the voters deserve certainty,” said Audrey Hall, a charter opponent. “If that means verifying the numbers, then that’s what we all should do because it is such a tremendous change and we owe it to the voters to do that.”
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s decision day in <a href="https://twitter.com/hashtag/Framingham?src=hash">#Framingham</a>: After months of debate, voters will decide whether the town should become a city <a href="https://t.co/z9weAY1TPB">https://t.co/z9weAY1TPB</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849243297881182209">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s the text of the charter ballot question. <a href="https://twitter.com/hashtag/framcharter?src=hash">#framcharter</a> <a href="https://t.co/CISsGYaUl8">pic.twitter.com/CISsGYaUl8</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849244535322443776">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One big ? today: Will rain lower turnout? Some think anti-charter side + Town Meeting diehards benefit from slow day at polls <a href="https://twitter.com/hashtag/framcharter?src=hash">#framcharter</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849248232853168130">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Voters aren&#39;t beating down the doors at the Memorial Building. 40 votes cast in Pct.12 as of 8:45; par for town election <a href="https://twitter.com/hashtag/framcharter?src=hash">#framcharter</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849249254438731776">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Turnout aside, there&#39;s huge interest in the outcome of today&#39;s charter vote, which has dominated town politics since 2015. <a href="https://twitter.com/hashtag/framcharter?src=hash">#framcharter</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849254532899098626">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many are eager for the debate to end. One woman posted this to the FramGov listserv yesterday w/ subject line &quot;going crazy!&quot; <a href="https://twitter.com/hashtag/framcharter?src=hash">#framcharter</a> <a href="https://t.co/uMP3jpRdqo">pic.twitter.com/uMP3jpRdqo</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849255659027787777">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With 4.25 hours to go, turnout is over 18% at Potter Road School/Precinct 2, typically an active site. <a href="https://twitter.com/hashtag/framcharter?src=hash">#framcharter</a> <a href="https://t.co/dFwq9ZlS6K">pic.twitter.com/dFwq9ZlS6K</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849346926319415297">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Shaping up to be a squeaker in Framingham. Unofficial results trickling in for charter vote: P12(187 yes/220 no); P14(132/114) <a href="https://twitter.com/hashtag/framcharter?src=hash">#framcharter</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849419764300697600">April 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With 28% turnout, Framingham passes city charter by 105(!) votes, 50.2% yes to 49.2% no <a href="https://t.co/4HZ237a5Hl">pic.twitter.com/4HZ237a5Hl</a></p>&mdash; Jim Haddadin (@JimHaddadin) <a href="https://twitter.com/JimHaddadin/status/849425208939335681">April 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
