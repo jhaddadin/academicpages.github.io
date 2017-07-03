@@ -1,5 +1,5 @@
 ---
-title: "DA: Hidden key granted access to<br/>Framingham police evidence room"
+title: "DA: Hidden key granted access to Framingham police evidence room"
 excerpt: "MetroWest Daily News, Nov. 5, 2016<br/><img src='/images/hiddenkey.jpg'>"
 collection: portfolio
 ---
