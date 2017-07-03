@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %} (Download as [PDF](jhaddadin.github.io/files/haddadin_resume_07_2017.pdf))
+[Download as PDF](jhaddadin.github.io/files/haddadin_resume_07_2017.pdf))
 
 Experience
 ======
