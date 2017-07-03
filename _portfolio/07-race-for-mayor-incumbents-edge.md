@@ -41,7 +41,7 @@ While money doesn’t always guarantee victory in politics, a study of the 2015 
 
 Median spending on mayoral campaigns has also generally increased since OCPF began studying the subject in 1997, though the increase was not dramatic or consistent. The median spending figure for candidates competing in the general election stood at $27,127 that year. It topped $30,000 in both 2013 and 2015, according to OCPF.
 
-![alt text](/images/mayors_chart.jpg "Spending on Massachusetts mayoral races"){:width="100%"}
+![alt text](/images/mayor_chart.jpg "Spending on Massachusetts mayoral races"){:width="100%"}
 
 Incumbent Quincy Mayor Thomas Koch spent the most to defend his seat in 2015, dropping more than $687,000 to defeat former mayor William Phelan in a race that dwarfed others in the state that year in expenditures.
 
