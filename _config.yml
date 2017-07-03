@@ -14,7 +14,7 @@ description              : &description "Newspaperman with a focus on data, publ
 url                      : https://jhaddadin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhaddadin/jhaddadin.github.io"
-teaser                   : "https://pbs.twimg.com/profile_images/850156091304550400/ruhC849B_400x400.jpg"
+teaser                   : "/images/headshot.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
