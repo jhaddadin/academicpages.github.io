@@ -11,7 +11,7 @@ title                    : "Jim Haddadin"
 title_separator          : "-"
 name                     : &name "Jim Haddadin"
 description              : &description "Newspaperman with a focus on data, public records and government accountability."
-url                      : https://jhaddadin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jhaddadin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhaddadin/jhaddadin.github.io"
 teaser                   : "/images/headshot.jpg"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jim Haddadin"
-  avatar           : "jhaddadin/jhaddadin.github.io/images/headshot.jpg"
+  avatar           : "/images/headshot.jpg"
   bio              : "Newspaperman with a focus on data, public records and government accountability."
   location         : "Boston"
   employer         : 
