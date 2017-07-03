@@ -1,6 +1,6 @@
 ---
 title: "Brazilians, Latinos see opportunity in Framingham city election"
-excerpt: "MetroWest Daily News, June 17, 2017.<br/><img src='/images/post1_ruiz.jpg'>"
+excerpt: "MetroWest Daily News, June 17, 2017<br/><img src='/images/post1_ruiz.jpg'>"
 collection: portfolio
 ---
 Published June 17, 2017 in [The MetroWest Daily News](http://www.metrowestdailynews.com/news/20170617/brazilians-latinos-see-opportunity-in-framingham-city-election)
