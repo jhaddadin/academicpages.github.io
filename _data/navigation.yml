@@ -3,8 +3,8 @@ main:
   - title: "Clips"
     url: /clips/  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Data Viz"
+    url: /dataviz/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
