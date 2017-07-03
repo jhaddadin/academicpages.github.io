@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a journalist in Massachusetts with a focus on data, public records and government accountability. I currently work at the MetroWest Daily News, where I cover life in the suburbs west of Boston.
+Hi! I'm a print journalist in Massachusetts with a knack for computers and storytelling on the web. I currently work at the MetroWest Daily News, where I cover life in the suburbs west of Boston.
 
 I spend a lot of time [prying loose](http://www.metrowestdailynews.com/news/20170302/ex-framingham-superintendent-still-receiving-salary) government records and [browbeating](https://twitter.com/JimHaddadin/status/834831618690912256) public servants about the right to know. A few years ago, I watched a nuclear submarine [burn up](http://www.fosters.com/article/20120525/GJNEWS_01/705259899) in a fire. I also traced nine generations of [Scott Brown's family](http://www.politifact.com/new-hampshire/statements/2013/dec/20/scott-brown/scott-brown-says-his-family-roots-go-back-nine-gen/), sent [Mike Huckabee](http://www.politifact.com/new-hampshire/statements/2013/nov/22/mike-huckabee/mike-huckabee-says-more-people-want-hunt-moose-new/) into a lather about [moose chili](https://www.facebook.com/mikehuckabee/posts/10151819001272869) and reported on the U.S. Army's [secret plan](http://melrose.wickedlocal.com/x795259774/In-Melrose-a-phantom-military-factory-comes-to-light) to outwit the Nazis with inflatable tanks.
 
