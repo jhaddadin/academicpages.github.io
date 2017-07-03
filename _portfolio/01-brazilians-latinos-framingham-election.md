@@ -13,7 +13,7 @@ General Manager Ilma Paixão and radio host Silvio Brauna are interviewing a 29-
 
 Speaking in Portuguese, the trio discusses the different political climates in Brazil and the United States, and the need for immigrants to participate in Framingham’s first city election.
 
-> “Everything starts with changing our way of thinking,” says Priscila Sousa, the candidate for mayor. She points out the strength of the local Brazilian population, encouraging listeners to get involved in the community.
+“Everything starts with changing our way of thinking,” says Priscila Sousa, the candidate for mayor. She points out the strength of the local Brazilian population, encouraging listeners to get involved in the community.
 
 While they talk, Brauna scans through questions from the audience on his cell phone. He asks if Sousa is at a disadvantage running against more established politicians in Framingham, such as former five-term state Rep. John Stefanini, one of her potential opponents.
 Sousa notes the success of other young politicians, including Fall River Mayor Jasiel Correia, who took office last year at age 24.
