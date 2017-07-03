@@ -11,7 +11,7 @@ redirect_from:
 
 Experience
 ======
-* The MetroWest Daily News: Multimedia journalist (September 2014 - Present)
+**The MetroWest Daily News** *Multimedia journalist* (September 2014 - Present)
   * I cover the town of Framingham, a working-class suburb of Boston with a population of roughly 70,000. I write daily print stories
   for our newspapers and affiliated websites.
   * I also produce photos, videos, maps and interactive content, and help grow our digital audience by managing the social media
