@@ -25,6 +25,8 @@ Julie Gelardi, a Framingham middle school teacher and mother of two, said she ho
 
 “I feel that a lot of the families are not being represented and their voice maybe isn’t being heard,” Gelardi said.
 
+<iframe width="100%" height="520" frameborder="0" src="https://jhaddadin.carto.com/viz/8b6f74ce-1a41-11e7-939a-0e05a8b3e3d7/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 Tuesday’s vote marks the culmination of a nearly two-year effort by city proponents to change town government. The campaign was led by Framingham First, a committee of private citizens who in 2015 collected the 5,660 registered voter signatures needed to place a charter question on the ballot.
 
 Residents last year overwhelmingly endorsed their proposal to create a Charter Commission, passing the measure in early 2016 by a whopping 75 percent. They also elected nine commissioners out of a field of 26 candidates to embark on a study of different types of municipal government and recommend one that fits the town best.
