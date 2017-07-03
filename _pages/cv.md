@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download as PDF](jhaddadin.github.io/files/haddadin_resume_07_2017.pdf))
+[Download as PDF](jhaddadin.github.io/files/haddadin_resume_07_2017.pdf)
 
 Experience
 ======
@@ -26,7 +26,7 @@ Experience
 
 Education
 ======
-B.S. in Journalism, Boston University (September 2004 - May 2008)
+* **B.S. in Journalism**, Boston University (September 2004 - May 2008)
   * Graduated magna cum laude from BU's College of Communication with a concentration in print journalism.
   * Completed internships at *Foster’s Daily Democrat* and *The Sunday Tribune* in Dublin, Ireland.
 
