@@ -9,4 +9,4 @@ Girls receive only about 42 percent of the roster spots on high school sports te
 
 The dashboard below allows readers to explore sports participation at each high school in Massachusetts. It uses data from the U.S. Department of Education, which monitors compliance with Title IX. The dashboard accompanied a story I wrote for The MetroWest Daily News in 2014 looking at the [disparity between opportunities for boys and girls](http://www.metrowestdailynews.com/article/20141122/NEWS/141128532). The project was created in Tableau.
 
-<iframe src="https://public.tableausoftware.com/views/Massachusettshighschoolsportsbygender/Sportsbygender?:embed=y&amp;:toolbar=no&amp;:display_count=no,:showVizHome=no"></iframe>
+<iframe width="100%" height="600" src="https://public.tableausoftware.com/views/Massachusettshighschoolsportsbygender/Sportsbygender?:embed=y&amp;:toolbar=no&amp;:display_count=no,:showVizHome=no"></iframe>
