@@ -21,7 +21,7 @@ Experience
   * Reported on issues of regional and statewide significance for one of New Hampshire's largest daily newspapers. I led the paper’s coverage of the 2012 presidential election, as well as an outbreak of hepatitis C at Exeter Hospital, the murder of Elizabeth Marriott and a fire that destroyed a nuclear submarine at Portsmouth Naval Shipyard.
 * **GateHouse Media New England**, Massachusetts — *Staff reporter* (April 2010 - February 2012)
   * Wrote features and covered government, crime and spot news for weekly papers in Arlington and Melrose.
-* **WCVB-TV: Web producer**, Needham, Massachusetts — *Web producer* (July 2008 - May 2010)
+* **WCVB-TV**, Needham, Massachusetts — *Web producer* (July 2008 - May 2010)
   * Covered breaking news and prepared print versions of broadcast pieces for the web. The website won a National Headliner Award in 2009, as well as Associated Press awards for best website in New England for 2009 and 2010 and the Edward R. Murrow Award for Best TV News Web site in 2010.
 
 Education
