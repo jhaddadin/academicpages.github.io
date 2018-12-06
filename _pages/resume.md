@@ -36,8 +36,8 @@ Accolades
 
 Journalism Awards
 ======
-* **First place, right-to-know reporting** from the New England Newspaper & Press Association (2018)
-* **First place, local election coverage** from the New England Newspaper & Press Association (2018)
+* **First Place, right-to-know reporting** from the New England Newspaper & Press Association (2018)
+* **First Place, local election coverage** from the New England Newspaper & Press Association (2018)
 * **First Place, general news story** from the New England Newspaper & Press Association (2015)
 * **First Place, government reporting** from the New Hampshire Press Association (2014)
 * **First Place, investigative reporting** from the New England Newspaper & Press Association (2011)
