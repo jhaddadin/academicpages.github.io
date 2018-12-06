@@ -4,9 +4,9 @@ title: "Double duty: Framingham police lawyer juggles city job and private pract
 excerpt: "MetroWest Daily News, June 24, 2018<br/><img src='/images/dd.jpg'>"
 collection: portfolio
 ---
-Published March June 24, 2018 in [The MetroWest Daily News](http://www.metrowestdailynews.com/news/20170329/in-race-for-mayor-top-spenders-in-mass-often-have-edge)
+Published March June 24, 2018 in [The MetroWest Daily News]()
 
-![alt text](/images/dd_full.jpg ""){:width="95%"}
+![alt text](/images/dd_full.jpg "https://www.metrowestdailynews.com/news/20180624/double-duty-framingham-police-lawyer-juggles-city-job-and-private-practice"){:width="95%"}
 
 Brian Simoneau knew the allegations against his client were troubling.
 
