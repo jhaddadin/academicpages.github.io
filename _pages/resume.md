@@ -11,7 +11,7 @@ redirect_from:
 Experience
 ======
 * **The MetroWest Daily News**, Framingham, Massachusetts — *Multimedia journalist* (September 2014 - Present)
-  * I cover the town of Framingham, a working-class suburb of Boston with a population of roughly 70,000. I write daily print stories
+  * I cover the city of Framingham, a suburb of Boston with a population of roughly 70,000. I write daily print stories
   for our newspapers and affiliated websites.
   * I also produce photos, videos, maps and interactive content, and help grow our digital audience by managing the social media
   accounts of our daily and weekly newspapers.
@@ -36,17 +36,17 @@ Accolades
 
 Journalism Awards
 ======
+* **First place, right-to-know reporting** from the New England Newspaper & Press Association (2018)
+* **First place, local election coverage** from the New England Newspaper & Press Association (2018)
+* **First Place, general news story** from the New England Newspaper & Press Association (2015)
+* **First Place, government reporting** from the New Hampshire Press Association (2014)
 * **First Place, investigative reporting** from the New England Newspaper & Press Association (2011)
 * **First Place, reporting on religious issues** from the New England Newspaper & Press Association (2011)
-* **First Place, government reporting** from the New Hampshire Press Association (2014)
-* **First Place, general news story** from the New England Newspaper & Press Association (2015)
-* **Third Place, right-to-know reporting** from the New England Newspaper & Press Association (2017)
   
 Skills
 ======
-* Knowledge of AP style
 * Versed in state and federal public records laws
-* Proficient coding in Python, R and Ruby to scrape, analyze and visualize data
+* Proficient coding in Python to scrape, analyze and visualize data
 * Experience using QGIS, Carto and other mapping software
 * Knowledge of HTML and content management systems
-* Native user of Facebook, Twitter and other social media platforms
+* Knowledge of AP style
