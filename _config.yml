@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jim Haddadin"
 title_separator          : "-"
 name                     : &name "Jim Haddadin"
-description              : &description "Newspaperman with a focus on data, public records and government accountability."
+description              : &description "Journalist specializing in data, public records and government accountability."
 url                      : "https://jhaddadin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhaddadin/jhaddadin.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Jim Haddadin"
   avatar           : "headshot_bw.jpg"
-  bio              : "Newspaperman with a focus on data, public records and government accountability."
+  bio              : "Journalist specializing in data, public records and government accountability."
   location         : "Boston"
   employer         : 
   googlescholar    : 
